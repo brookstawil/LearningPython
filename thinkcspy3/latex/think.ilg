@@ -1,0 +1,10 @@
+This is makeindex, version 2.14 [02-Oct-2002] (kpathsea + Thai support).
+Scanning style file C:/thinkcspy/temp/build/latex/python.ist......done (6 attributes redefined, 0 ignored).
+Scanning input file think.idx....done (646 entries accepted, 0 rejected).
+Sorting entries........done (6430 comparisons).
+Generating output file think.ind....
+## Warning (input = think.idx, line = 32; output = think.ind, line = 60):
+   -- Conflicting entries: multiple encaps for the same page under same key.
+done (515 lines written, 1 warning).
+Output written in think.ind.
+Transcript written in think.ilg.

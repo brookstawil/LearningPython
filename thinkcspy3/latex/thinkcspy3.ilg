@@ -1,0 +1,7 @@
+This is makeindex, version 2.14 [02-Oct-2002] (kpathsea + Thai support).
+Scanning style file C:/thinkcspy/temp/build/latex/python.ist......done (6 attributes redefined, 0 ignored).
+Scanning input file thinkcspy3.idx....done (646 entries accepted, 0 rejected).
+Sorting entries........done (6429 comparisons).
+Generating output file thinkcspy3.ind....done (515 lines written, 0 warnings).
+Output written in thinkcspy3.ind.
+Transcript written in thinkcspy3.ilg.

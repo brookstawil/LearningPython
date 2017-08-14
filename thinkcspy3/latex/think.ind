@@ -1,0 +1,515 @@
+\begin{theindex}
+\def\bigletter#1{{\Large\sffamily#1}\nopagebreak\vspace{1mm}}
+
+  \bigletter A
+  \item abbreviated assignment, \hyperpage{92}
+  \item abecedarian series, \hyperpage{116}
+  \item accumulator, \hyperindexformat{\textbf}{297}
+  \item algorithm, \hyperpage{2}, \hyperindexformat{\textbf}{7}, \hyperpage{106}, 
+		\hyperindexformat{\textbf}{107}
+    \subitem deterministic, \hyperpage{164}
+  \item aliases, \hyperpage{151}, \hyperindexformat{\textbf}{159}, \hyperpage{270}
+  \item Alice in Wonderland download, \hyperpage{186}
+  \item alternative execution, \hyperpage{57}
+  \item ambiguity, \hyperindexformat{\textbf}{6}
+  \item animation rate, \hyperindexformat{\textbf}{246}
+  \item argument, \hyperpage{45}, \hyperindexformat{\textbf}{49}
+  \item assignment, \hyperpage{13}, \hyperpage{85}
+    \subitem tuple, \hyperpage{134}
+  \item assignment statement, \hyperpage{13}, \hyperindexformat{\textbf}{21}, \hyperpage{85}
+  \item assignment token, \hyperindexformat{\textbf}{22}
+  \item attribute, \hyperpage{25}, \hyperindexformat{\textbf}{34}, \hyperpage{171}, 
+		\hyperindexformat{\textbf}{173}, \hyperpage{211}, \hyperindexformat{\textbf}{217}
+
+  \indexspace
+  \bigletter B
+  \item baked animation, \hyperindexformat{\textbf}{246}
+  \item bar chart, \hyperpage{63}
+  \item base case, \hyperpage{252}, \hyperindexformat{\textbf}{256}
+  \item binary search, \hyperindexformat{\textbf}{204}
+  \item bind, \hyperindexformat{\textbf}{143}
+  \item blit, \hyperindexformat{\textbf}{246}
+  \item block, \hyperpage{56}, \hyperindexformat{\textbf}{66}
+  \item body, \hyperindexformat{\textbf}{49}, \hyperpage{56}, \hyperindexformat{\textbf}{66}, 
+		\hyperindexformat{\textbf}{107}
+  \item Boolean algebra, \hyperindexformat{\textbf}{67}
+  \item Boolean expression, \hyperpage{53}, \hyperindexformat{\textbf}{67}
+  \item Boolean function, \hyperpage{76}, \hyperindexformat{\textbf}{79}
+  \item Boolean value, \hyperpage{53}, \hyperindexformat{\textbf}{67}
+  \item branch, \hyperpage{57}, \hyperindexformat{\textbf}{67}
+  \item break statement, \hyperpage{98}
+  \item breakpoint, \hyperindexformat{\textbf}{107}
+  \item bug, \hyperpage{3}, \hyperindexformat{\textbf}{7}
+  \item builtin scope, \hyperpage{170}
+  \item bump, \hyperindexformat{\textbf}{107}
+
+  \indexspace
+  \bigletter C
+  \item call graph, \hyperindexformat{\textbf}{273}
+  \item canvas, \hyperpage{25}, \hyperindexformat{\textbf}{34}
+  \item chained conditional, \hyperpage{58}, \hyperindexformat{\textbf}{67}
+  \item character, \hyperpage{113}
+  \item chatterbox function, \hyperindexformat{\textbf}{79}
+  \item child class, \hyperindexformat{\textbf}{307}
+  \item chunking, \hyperpage{31}, \hyperpage{48}
+  \item class, \hyperpage{11}, \hyperindexformat{\textbf}{217}
+  \item class attribute, \hyperindexformat{\textbf}{297}
+  \item clone, \hyperpage{151}, \hyperindexformat{\textbf}{159}
+  \item Collatz 3n + 1 sequence, \hyperpage{88}
+  \item collection, \hyperpage{144}, \hyperpage{186}
+  \item comment, \hyperindexformat{\textbf}{7}, \hyperpage{7}
+  \item comparison of strings, \hyperpage{118}
+  \item comparison operator, \hyperpage{53}, \hyperindexformat{\textbf}{67}
+  \item compile, \hyperpage{1}
+  \item composition, \hyperindexformat{\textbf}{22}, \hyperpage{45}, \hyperpage{75}
+  \item composition (of functions), \hyperindexformat{\textbf}{79}
+  \item composition of functions, \hyperpage{20}
+  \item compound data type, \hyperpage{113}, \hyperindexformat{\textbf}{128}, \hyperpage{209}
+  \item compound statement, \hyperindexformat{\textbf}{49}, \hyperpage{56}
+    \subitem body, \hyperpage{56}
+    \subitem header, \hyperpage{56}
+  \item computation pattern, \hyperpage{120}
+  \item concatenate, \hyperindexformat{\textbf}{22}
+  \item concatenation, \hyperpage{19}, \hyperpage{116}
+  \item condition, \hyperindexformat{\textbf}{67}, \hyperpage{87}
+  \item conditional
+    \subitem chained, \hyperpage{58}
+  \item conditional branching, \hyperpage{56}
+  \item conditional execution, \hyperpage{56}
+  \item conditional statement, \hyperpage{56}, \hyperindexformat{\textbf}{67}
+  \item conditionals
+    \subitem nested, \hyperpage{59}
+  \item constructor, \hyperindexformat{\textbf}{217}
+  \item continue statement, \hyperpage{101}, \hyperindexformat{\textbf}{107}
+  \item control flow, \hyperpage{30}, \hyperindexformat{\textbf}{34}, \hyperpage{328}
+  \item copy, \hyperpage{224}
+    \subitem deep, \hyperpage{224}
+    \subitem shallow, \hyperpage{224}
+  \item counter, \hyperindexformat{\textbf}{107}
+  \item counting pattern, \hyperpage{121}
+  \item cursor, \hyperindexformat{\textbf}{107}
+
+  \indexspace
+  \bigletter D
+  \item data representation, \hyperpage{199}
+  \item data structure, \hyperindexformat{\textbf}{136}, \hyperpage{199}, \hyperpage{252}
+    \subitem recursive, \hyperpage{252}
+  \item data type, \hyperpage{11}, \hyperindexformat{\textbf}{22}
+  \item database, \hyperpage{322}
+  \item dead code, \hyperpage{71}, \hyperindexformat{\textbf}{80}
+  \item debugging, \hyperpage{3}, \hyperindexformat{\textbf}{7}, \hyperpage{75}
+  \item decrement, \hyperindexformat{\textbf}{108}
+  \item deep copy, \hyperindexformat{\textbf}{225}
+  \item deep equality, \hyperpage{222}, \hyperindexformat{\textbf}{225}
+  \item default value, \hyperpage{121}, \hyperindexformat{\textbf}{128}
+  \item definite iteration, \hyperindexformat{\textbf}{108}
+  \item definition
+    \subitem function, \hyperpage{25}, \hyperpage{39}
+    \subitem recursive, \hyperpage{252}
+  \item del statement, \hyperpage{149}, \hyperpage{268}
+  \item delimiter, \hyperindexformat{\textbf}{159}, \hyperindexformat{\textbf}{185}
+  \item deterministic algorithm, \hyperpage{164}
+  \item development plan, \hyperpage{97}, \hyperindexformat{\textbf}{108}
+  \item dictionary, \hyperpage{267}, \hyperindexformat{\textbf}{273}
+  \item dir function, \hyperpage{122}
+  \item directory, \hyperpage{183}, \hyperindexformat{\textbf}{185}
+  \item docstring, \hyperindexformat{\textbf}{49}, \hyperpage{122}, \hyperindexformat{\textbf}{128}
+  \item dot notation, \hyperpage{122}, \hyperindexformat{\textbf}{128}
+  \item dot operator, \hyperpage{171}, \hyperindexformat{\textbf}{173}
+  \item dot product, \hyperindexformat{\textbf}{287}
+  \item download Alice in Wonderland, \hyperpage{186}
+  \item Doyle, Arthur Conan, \hyperpage{4}
+  \item duplicate removal, \hyperpage{195}
+
+  \indexspace
+  \bigletter E
+  \item Eight Queens puzzle, \hyperpage{199}
+  \item element, \hyperpage{144}, \hyperindexformat{\textbf}{159}, \hyperpage{186}
+  \item elif, \hyperpage{56}
+  \item else, \hyperpage{56}
+  \item email sending, \hyperpage{320}
+  \item encapsulate, \hyperindexformat{\textbf}{108}
+  \item encapsulation, \hyperpage{96}
+  \item encode, \hyperindexformat{\textbf}{297}
+  \item enumerate, \hyperpage{152}
+  \item equality, \hyperpage{222}
+    \subitem deep, \hyperpage{222}
+    \subitem shallow, \hyperpage{222}
+  \item escape sequence, \hyperpage{94}, \hyperindexformat{\textbf}{108}
+  \item eureka traversal, \hyperpage{120}
+  \item evaluate, \hyperindexformat{\textbf}{22}
+  \item event, \hyperpage{136}, \hyperindexformat{\textbf}{143}, \hyperpage{330}
+  \item exception, \hyperpage{4}, \hyperindexformat{\textbf}{7}, \hyperpage{261}, 
+		\hyperindexformat{\textbf}{265}
+    \subitem handling, \hyperpage{261}
+  \item expression, \hyperpage{15}, \hyperindexformat{\textbf}{22}
+    \subitem Boolean, \hyperpage{53}
+
+  \indexspace
+  \bigletter F
+  \item fibonacci numbers, \hyperpage{254}
+  \item field width, \hyperpage{124}
+  \item file, \hyperpage{179}, \hyperindexformat{\textbf}{185}
+    \subitem text, \hyperpage{183}
+  \item file handle, \hyperpage{179}
+  \item file system, \hyperindexformat{\textbf}{185}
+  \item float, \hyperpage{11}, \hyperpage{17}, \hyperindexformat{\textbf}{22}
+  \item floor division, \hyperpage{16}, \hyperindexformat{\textbf}{22}
+  \item flow of execution, \hyperpage{30}, \hyperpage{43}, \hyperindexformat{\textbf}{49}
+  \item for loop, \hyperpage{29}, \hyperindexformat{\textbf}{34}, \hyperpage{86}, \hyperpage{116}, 
+		\hyperpage{152}
+  \item for loop traversal (for), \hyperindexformat{\textbf}{127}
+  \item formal language, \hyperpage{5}, \hyperindexformat{\textbf}{8}
+  \item formatting
+    \subitem strings, \hyperpage{124}
+  \item fractal
+    \subitem Cesaro torn square, \hyperpage{256}
+    \subitem Sierpinski triangle, \hyperpage{257}
+  \item frame, \hyperindexformat{\textbf}{49}
+  \item frame rate, \hyperindexformat{\textbf}{246}
+  \item fruitful function, \hyperindexformat{\textbf}{49}, \hyperindexformat{\textbf}{80}
+  \item fully qualified name, \hyperindexformat{\textbf}{173}
+  \item function, \hyperpage{25}, \hyperpage{39}, \hyperindexformat{\textbf}{49}, \hyperpage{103}
+    \subitem argument, \hyperpage{45}
+    \subitem composition, \hyperpage{45}
+    \subitem len, \hyperpage{115}
+    \subitem parameter, \hyperpage{45}
+    \subitem pure, \hyperpage{277}
+  \item function call, \hyperindexformat{\textbf}{49}
+  \item function composition, \hyperpage{20}, \hyperindexformat{\textbf}{49}, \hyperpage{75}
+  \item function definition, \hyperpage{25}, \hyperpage{39}, \hyperindexformat{\textbf}{49}
+  \item function tips, \hyperpage{327}
+  \item function type, \hyperpage{122}
+  \item functional programming style, \hyperindexformat{\textbf}{287}
+
+  \indexspace
+  \bigletter G
+  \item game loop, \hyperpage{226}, \hyperindexformat{\textbf}{246}
+  \item generalization, \hyperpage{96}, \hyperpage{281}
+  \item generalize, \hyperindexformat{\textbf}{108}
+  \item global scope, \hyperpage{170}
+
+  \indexspace
+  \bigletter H
+  \item hand trace, \hyperpage{90}
+  \item handle, \hyperpage{179}, \hyperindexformat{\textbf}{185}
+  \item handle an exception, \hyperindexformat{\textbf}{265}
+  \item handler, \hyperpage{136}, \hyperindexformat{\textbf}{143}, \hyperpage{330}
+  \item handling an exception, \hyperpage{261}
+  \item header line, \hyperindexformat{\textbf}{49}
+  \item help, \hyperpage{93}
+  \item high-level language, \hyperpage{1}, \hyperindexformat{\textbf}{8}
+  \item Holmes, Sherlock, \hyperpage{4}
+
+  \indexspace
+  \bigletter I
+  \item if, \hyperpage{56}
+  \item if statement, \hyperpage{56}
+  \item immediate mode, \hyperindexformat{\textbf}{8}
+  \item immutable, \hyperpage{118}, \hyperpage{133}, \hyperpage{148}
+  \item immutable data value, \hyperindexformat{\textbf}{128}, \hyperindexformat{\textbf}{136}, 
+		\hyperindexformat{\textbf}{159}, \hyperindexformat{\textbf}{273}
+  \item import statement, \hyperpage{45}, \hyperindexformat{\textbf}{49}, \hyperpage{168}, 
+		\hyperpage{171}, \hyperindexformat{\textbf}{173}
+  \item in and not in operator (in, not in), \hyperindexformat{\textbf}{128}
+  \item in operator, \hyperpage{119}
+  \item increment, \hyperindexformat{\textbf}{108}
+  \item incremental development, \hyperpage{72}, \hyperindexformat{\textbf}{80}
+  \item indefinite iteration, \hyperindexformat{\textbf}{108}
+  \item index, \hyperpage{113}, \hyperindexformat{\textbf}{128}, \hyperpage{145}, 
+		\hyperindexformat{\textbf}{159}
+    \subitem negative, \hyperpage{115}
+  \item indexing ({[}{]}), \hyperindexformat{\textbf}{127}
+  \item infinite loop, \hyperpage{87}, \hyperindexformat{\textbf}{108}
+  \item infinite recursion, \hyperpage{252}, \hyperindexformat{\textbf}{256}
+  \item inheritance, \hyperindexformat{\textbf}{307}
+  \item initialization (of a variable), \hyperindexformat{\textbf}{108}
+  \item initializer method, \hyperindexformat{\textbf}{217}
+  \item input, \hyperpage{19}
+  \item input dialog, \hyperpage{19}
+  \item instance, \hyperpage{27}, \hyperindexformat{\textbf}{34}, \hyperindexformat{\textbf}{217}
+  \item instantiate, \hyperindexformat{\textbf}{217}
+  \item int, \hyperpage{11}, \hyperpage{17}, \hyperindexformat{\textbf}{22}
+  \item integer, \hyperpage{11}
+  \item Intel, \hyperpage{94}
+  \item interpret, \hyperpage{1}
+  \item interpreter, \hyperindexformat{\textbf}{8}
+  \item invoke, \hyperpage{25}, \hyperindexformat{\textbf}{35}
+  \item is operator, \hyperpage{150}
+  \item item, \hyperpage{144}, \hyperindexformat{\textbf}{159}, \hyperpage{186}
+  \item item assignment, \hyperpage{148}
+  \item iteration, \hyperpage{85}, \hyperpage{87}, \hyperindexformat{\textbf}{108}
+
+  \indexspace
+  \bigletter J
+  \item join, \hyperpage{156}
+  \item justification, \hyperpage{124}
+
+  \indexspace
+  \bigletter K
+  \item key, \hyperpage{267}, \hyperindexformat{\textbf}{274}
+  \item key:value pair, \hyperpage{267}, \hyperindexformat{\textbf}{274}
+  \item keyword, \hyperpage{14}, \hyperindexformat{\textbf}{22}
+
+  \indexspace
+  \bigletter L
+  \item len function, \hyperpage{115}
+  \item length function (len), \hyperindexformat{\textbf}{127}
+  \item lifetime, \hyperpage{47}, \hyperindexformat{\textbf}{49}
+  \item linear, \hyperindexformat{\textbf}{205}
+  \item linear search, \hyperindexformat{\textbf}{205}
+  \item Linux, \hyperpage{4}
+  \item list, \hyperpage{144}, \hyperindexformat{\textbf}{159}, \hyperpage{186}
+    \subitem append, \hyperpage{154}
+    \subitem nested, \hyperpage{145}, \hyperpage{158}
+  \item list index, \hyperpage{145}
+  \item list traversal, \hyperpage{145}, \hyperindexformat{\textbf}{159}
+  \item literalness, \hyperindexformat{\textbf}{6}
+  \item local scope, \hyperpage{170}
+  \item local variable, \hyperpage{47}, \hyperindexformat{\textbf}{50}, \hyperpage{97}
+  \item logarithm, \hyperpage{94}
+  \item logical operator, \hyperpage{53, 54}, \hyperindexformat{\textbf}{67}
+  \item loop, \hyperpage{87}, \hyperindexformat{\textbf}{108}
+  \item loop body, \hyperindexformat{\textbf}{34}, \hyperpage{87}
+  \item loop variable, \hyperindexformat{\textbf}{34}, \hyperindexformat{\textbf}{108}
+  \item low-level language, \hyperpage{1}, \hyperindexformat{\textbf}{8}
+
+  \indexspace
+  \bigletter M
+  \item Make Way for Ducklings, \hyperpage{116}
+  \item mapping type, \hyperpage{267}, \hyperindexformat{\textbf}{274}
+  \item matrix, \hyperpage{158}, \hyperpage{270}
+  \item McCloskey, Robert, \hyperpage{116}
+  \item memo, \hyperpage{271}, \hyperindexformat{\textbf}{274}
+  \item Merge algorithm, \hyperindexformat{\textbf}{205}
+  \item meta-notation, \hyperpage{93}, \hyperindexformat{\textbf}{108}
+  \item method, \hyperpage{25}, \hyperindexformat{\textbf}{35}, \hyperindexformat{\textbf}{173}, 
+		\hyperindexformat{\textbf}{217}
+  \item middle-test loop, \hyperindexformat{\textbf}{108}
+  \item mode, \hyperindexformat{\textbf}{185}
+  \item modifier, \hyperpage{155}, \hyperindexformat{\textbf}{160}, \hyperpage{278}, 
+		\hyperindexformat{\textbf}{287}
+  \item module, \hyperpage{25}, \hyperindexformat{\textbf}{35}, \hyperpage{122}, 
+		\hyperindexformat{\textbf}{173}
+  \item modulus operator, \hyperpage{21}, \hyperindexformat{\textbf}{22}
+  \item mutable, \hyperpage{118}, \hyperpage{133}, \hyperpage{148}
+  \item mutable data value, \hyperindexformat{\textbf}{128}, \hyperindexformat{\textbf}{136}, 
+		\hyperindexformat{\textbf}{160}, \hyperindexformat{\textbf}{274}
+
+  \indexspace
+  \bigletter N
+  \item namespace, \hyperpage{168}, \hyperindexformat{\textbf}{173}
+  \item naming collision, \hyperindexformat{\textbf}{173}
+  \item natural language, \hyperpage{5}, \hyperindexformat{\textbf}{8}
+  \item negative index, \hyperpage{115}
+  \item nested conditionals, \hyperpage{59}
+  \item nested list, \hyperpage{145}, \hyperpage{158}, \hyperindexformat{\textbf}{160}
+  \item nested loop, \hyperindexformat{\textbf}{108}
+  \item nesting, \hyperindexformat{\textbf}{67}
+  \item newline, \hyperpage{94}, \hyperindexformat{\textbf}{108}
+  \item Newton's method, \hyperpage{105}
+  \item non-volatile memory, \hyperindexformat{\textbf}{185}
+  \item None, \hyperpage{71}, \hyperindexformat{\textbf}{80}, \hyperpage{327}
+  \item normalized, \hyperindexformat{\textbf}{287}
+
+  \indexspace
+  \bigletter O
+  \item object, \hyperpage{25}, \hyperindexformat{\textbf}{35}, \hyperindexformat{\textbf}{160}, 
+		\hyperindexformat{\textbf}{218}
+  \item object code, \hyperindexformat{\textbf}{8}
+  \item object-oriented language, \hyperindexformat{\textbf}{218}
+  \item object-oriented programming, \hyperpage{209}, \hyperindexformat{\textbf}{218}
+  \item objects and values, \hyperpage{150}
+  \item operand, \hyperpage{16}, \hyperindexformat{\textbf}{22}
+  \item operations on strings, \hyperpage{124}
+  \item operator, \hyperpage{16}, \hyperindexformat{\textbf}{22}
+    \subitem comparison, \hyperpage{53}
+    \subitem in, \hyperpage{119}
+    \subitem logical, \hyperpage{53, 54}
+    \subitem modulus, \hyperpage{21}
+  \item operator overloading, \hyperindexformat{\textbf}{287}
+  \item optional parameter, \hyperpage{121}, \hyperindexformat{\textbf}{128}
+  \item order of operations, \hyperpage{18}
+
+  \indexspace
+  \bigletter P
+  \item parameter, \hyperpage{45}, \hyperindexformat{\textbf}{50}, \hyperpage{153}
+    \subitem optional, \hyperpage{121}
+  \item parent class, \hyperindexformat{\textbf}{307}
+  \item parse, \hyperpage{5}, \hyperindexformat{\textbf}{8}
+  \item pass statement, \hyperpage{56}
+  \item path, \hyperindexformat{\textbf}{186}
+  \item pattern, \hyperindexformat{\textbf}{160}
+  \item pattern of computation, \hyperpage{120}
+  \item Pentium, \hyperpage{94}
+  \item pixel, \hyperindexformat{\textbf}{246}
+  \item poetry, \hyperindexformat{\textbf}{6}
+  \item poll, \hyperpage{226}, \hyperindexformat{\textbf}{246}
+  \item polymorphic, \hyperindexformat{\textbf}{287}
+  \item portability, \hyperindexformat{\textbf}{8}
+  \item portable, \hyperpage{1}
+  \item post-test loop, \hyperindexformat{\textbf}{108}
+  \item pre-test loop, \hyperindexformat{\textbf}{108}
+  \item print function, \hyperindexformat{\textbf}{8}
+  \item probe, \hyperindexformat{\textbf}{205}
+  \item problem solving, \hyperindexformat{\textbf}{8}
+  \item proficiency, \hyperpage{319}
+  \item program, \hyperpage{2}, \hyperindexformat{\textbf}{6}, \hyperindexformat{\textbf}{8}
+  \item program development, \hyperpage{96}
+  \item program tracing, \hyperpage{90}
+  \item programming language, \hyperpage{1}
+  \item promise, \hyperpage{157}, \hyperindexformat{\textbf}{160}, \hyperpage{163}
+  \item prompt, \hyperindexformat{\textbf}{67}
+  \item prose, \hyperindexformat{\textbf}{6}
+  \item pure function, \hyperindexformat{\textbf}{160}, \hyperindexformat{\textbf}{287}
+  \item PyGame, \hyperpage{226}
+  \item PyScripter, \hyperpage{1}
+    \subitem single stepping, \hyperpage{43}
+  \item Python shell, \hyperindexformat{\textbf}{8}
+
+  \indexspace
+  \bigletter R
+  \item raise, \hyperindexformat{\textbf}{265}
+  \item random numbers, \hyperpage{163}
+  \item range, \hyperindexformat{\textbf}{35}
+  \item range function, \hyperpage{31}, \hyperpage{157}
+  \item rectangle, \hyperpage{221}
+  \item recursion, \hyperpage{252}, \hyperindexformat{\textbf}{256}
+    \subitem infinite, \hyperpage{252}
+  \item recursive call, \hyperpage{252}, \hyperindexformat{\textbf}{256}
+  \item recursive data structure, \hyperpage{252}
+  \item recursive definition, \hyperpage{252}, \hyperindexformat{\textbf}{256}
+  \item redundancy, \hyperindexformat{\textbf}{6}
+  \item refactor, \hyperindexformat{\textbf}{50}
+  \item refactoring code, \hyperpage{48}
+  \item return, \hyperpage{327}
+  \item return a tuple, \hyperpage{135}
+  \item return statement, \hyperpage{60}, \hyperpage{71}
+  \item return value, \hyperpage{71}, \hyperindexformat{\textbf}{80}
+  \item rules of precedence, \hyperpage{18}, \hyperindexformat{\textbf}{22}
+  \item runtime error, \hyperpage{4}, \hyperindexformat{\textbf}{8}, \hyperpage{115}, 
+		\hyperpage{118}
+
+  \indexspace
+  \bigletter S
+  \item safe language, \hyperpage{4}
+  \item scaffolding, \hyperpage{72}, \hyperindexformat{\textbf}{80}, \hyperpage{187}
+  \item scalar multiplication, \hyperindexformat{\textbf}{287}
+  \item scope, \hyperpage{170}
+    \subitem builtin, \hyperpage{170}
+    \subitem global, \hyperpage{170}
+    \subitem local, \hyperpage{170}
+  \item script, \hyperindexformat{\textbf}{8}
+  \item search
+    \subitem binary search, \hyperpage{191}
+  \item search: linear search, \hyperpage{187}
+  \item semantic error, \hyperpage{4}, \hyperindexformat{\textbf}{8}
+  \item semantics, \hyperpage{4}, \hyperindexformat{\textbf}{8}
+  \item sequence, \hyperpage{144}, \hyperindexformat{\textbf}{160}, \hyperpage{186}
+  \item shallow copy, \hyperindexformat{\textbf}{225}
+  \item shallow equality, \hyperpage{222}, \hyperindexformat{\textbf}{225}
+  \item short-circuit evaluation, \hyperpage{120}, \hyperindexformat{\textbf}{128}
+  \item shuffle, \hyperpage{163}
+  \item side effect, \hyperpage{155}, \hyperindexformat{\textbf}{160}
+  \item single-step, \hyperindexformat{\textbf}{109}
+  \item slice, \hyperpage{117}, \hyperindexformat{\textbf}{128}, \hyperpage{148}
+  \item slicing ({[}:{]}), \hyperindexformat{\textbf}{128}
+  \item socket, \hyperindexformat{\textbf}{186}
+  \item sort
+    \subitem merge sort, \hyperpage{196}
+  \item source code, \hyperindexformat{\textbf}{8}
+  \item split, \hyperpage{156}
+  \item sprite, \hyperindexformat{\textbf}{246}
+  \item stack diagram, \hyperindexformat{\textbf}{50}
+  \item state, \hyperpage{25}
+  \item state snapshot, \hyperpage{13}, \hyperindexformat{\textbf}{22}
+  \item statement, \hyperpage{15}, \hyperindexformat{\textbf}{22}
+    \subitem assignment, \hyperpage{85}
+    \subitem continue, \hyperpage{101}
+    \subitem del, \hyperpage{149}, \hyperpage{268}
+    \subitem if, \hyperpage{56}
+    \subitem import, \hyperpage{45}, \hyperpage{168}
+    \subitem pass, \hyperpage{56}
+    \subitem return, \hyperpage{60}
+  \item statement block, \hyperpage{56}
+  \item statement: break, \hyperpage{98}
+  \item step size, \hyperindexformat{\textbf}{160}
+  \item str, \hyperpage{17}, \hyperindexformat{\textbf}{23}
+  \item string, \hyperpage{11}, \hyperpage{331}
+  \item string comparison, \hyperpage{118}
+  \item string comparison (\textgreater {}, \textless {}, \textgreater {}=, \textless {}=, ==, 
+    \subitem =), \hyperindexformat{\textbf}{128}
+  \item string formatting, \hyperpage{124}
+  \item string module, \hyperpage{122}
+  \item string operations, \hyperpage{19}
+  \item string slice, \hyperpage{117}
+  \item strings and lists, \hyperpage{156}
+  \item style, \hyperpage{77}
+  \item sublist, \hyperpage{117}, \hyperpage{148}
+  \item subscript operator, \hyperpage{113}
+  \item substring, \hyperpage{117}
+  \item surface, \hyperpage{226}, \hyperindexformat{\textbf}{246}
+  \item syntax, \hyperpage{3}, \hyperindexformat{\textbf}{8}
+  \item syntax error, \hyperpage{3}, \hyperindexformat{\textbf}{8}
+
+  \indexspace
+  \bigletter T
+  \item tab, \hyperpage{94}, \hyperindexformat{\textbf}{109}
+  \item table, \hyperpage{94}
+  \item temporary variable, \hyperpage{71}, \hyperindexformat{\textbf}{80}
+  \item terminating condition, \hyperindexformat{\textbf}{35}
+  \item test suite, \hyperindexformat{\textbf}{80}
+  \item Test-driven development, \hyperpage{187}
+  \item test-driven development (TDD), \hyperindexformat{\textbf}{205}
+  \item text file, \hyperpage{183}, \hyperindexformat{\textbf}{186}
+  \item token, \hyperpage{5}, \hyperindexformat{\textbf}{8}
+  \item trace, \hyperindexformat{\textbf}{109}
+  \item traceback, \hyperindexformat{\textbf}{50}
+  \item tracing a program, \hyperpage{90}
+  \item traversal, \hyperpage{116}, \hyperpage{120}
+  \item traverse, \hyperindexformat{\textbf}{129}
+  \item trichotomy, \hyperindexformat{\textbf}{109}
+  \item triple quoted string, \hyperpage{11}
+  \item truncation, \hyperpage{17}
+  \item truth table, \hyperindexformat{\textbf}{67}
+  \item try ... except, \hyperpage{261}
+  \item try ... except ... finally, \hyperpage{264}
+  \item tuple, \hyperpage{133}, \hyperindexformat{\textbf}{136}
+    \subitem assignment, \hyperpage{134}
+    \subitem return value, \hyperpage{135}
+  \item tuple assignment, \hyperindexformat{\textbf}{136}
+  \item turtle module, \hyperpage{25}
+  \item two-dimensional table, \hyperpage{96}
+  \item type, \hyperpage{11}
+    \subitem conversion, \hyperpage{62}
+  \item type conversion, \hyperpage{62}, \hyperindexformat{\textbf}{67}
+  \item type converter functions, \hyperpage{17}
+
+  \indexspace
+  \bigletter U
+  \item underscore character, \hyperpage{14}
+  \item unit testing, \hyperindexformat{\textbf}{80}
+  \item unit tests, \hyperpage{164}
+  \item unreachable code, \hyperpage{71}
+
+  \indexspace
+  \bigletter V
+  \item value, \hyperpage{11}, \hyperindexformat{\textbf}{23}, \hyperpage{71}, \hyperpage{267}
+    \subitem Boolean, \hyperpage{53}
+  \item variable, \hyperpage{13}, \hyperindexformat{\textbf}{23}
+    \subitem local, \hyperpage{47}, \hyperpage{97}
+    \subitem temporary, \hyperpage{71}
+  \item variable name, \hyperindexformat{\textbf}{23}
+  \item variables local, \hyperpage{330}
+  \item void function, \hyperindexformat{\textbf}{50}
+  \item volatile memory, \hyperindexformat{\textbf}{186}
+
+  \indexspace
+  \bigletter W
+  \item web server in Python, \hyperpage{321}
+  \item while loop, \hyperpage{87}
+  \item while statement, \hyperpage{87}
+  \item whitespace, \hyperindexformat{\textbf}{129}
+  \item wrapping code in a function, \hyperpage{57}, \hyperindexformat{\textbf}{67}
+
+\end{theindex}

@@ -1,0 +1,314 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Learning with Python 3 (RLE) - The CSc102 extracts}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}The way of the program}{4}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}The Python programming language}{4}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}What is a program?}{6}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}What is debugging?}{7}{subsection.1.1.3}
+\contentsline {subsection}{\numberline {1.1.4}Syntax errors}{7}{subsection.1.1.4}
+\contentsline {subsection}{\numberline {1.1.5}Runtime errors}{7}{subsection.1.1.5}
+\contentsline {subsection}{\numberline {1.1.6}Semantic errors}{7}{subsection.1.1.6}
+\contentsline {subsection}{\numberline {1.1.7}Experimental debugging}{8}{subsection.1.1.7}
+\contentsline {subsection}{\numberline {1.1.8}Formal and natural languages}{8}{subsection.1.1.8}
+\contentsline {subsection}{\numberline {1.1.9}The first program}{10}{subsection.1.1.9}
+\contentsline {subsection}{\numberline {1.1.10}Comments}{10}{subsection.1.1.10}
+\contentsline {subsection}{\numberline {1.1.11}Glossary}{11}{subsection.1.1.11}
+\contentsline {subsection}{\numberline {1.1.12}Exercises}{12}{subsection.1.1.12}
+\contentsline {section}{\numberline {1.2}Variables, expressions and statements}{13}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Values and data types}{13}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Variables}{15}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Variable names and keywords}{17}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.4}Statements}{18}{subsection.1.2.4}
+\contentsline {subsection}{\numberline {1.2.5}Evaluating expressions}{18}{subsection.1.2.5}
+\contentsline {subsection}{\numberline {1.2.6}Operators and operands}{19}{subsection.1.2.6}
+\contentsline {subsection}{\numberline {1.2.7}Type converter functions}{19}{subsection.1.2.7}
+\contentsline {subsection}{\numberline {1.2.8}Order of operations}{20}{subsection.1.2.8}
+\contentsline {subsection}{\numberline {1.2.9}Operations on strings}{21}{subsection.1.2.9}
+\contentsline {subsection}{\numberline {1.2.10}Input}{22}{subsection.1.2.10}
+\contentsline {subsection}{\numberline {1.2.11}Composition}{22}{subsection.1.2.11}
+\contentsline {subsection}{\numberline {1.2.12}The modulus operator}{23}{subsection.1.2.12}
+\contentsline {subsection}{\numberline {1.2.13}Glossary}{24}{subsection.1.2.13}
+\contentsline {subsection}{\numberline {1.2.14}Exercises}{25}{subsection.1.2.14}
+\contentsline {section}{\numberline {1.3}Hello, little turtles!}{26}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Our first turtle program}{27}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Instances --- a herd of turtles}{29}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}The \textbf {for} loop}{31}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {1.3.4}Flow of Execution of the for loop}{32}{subsection.1.3.4}
+\contentsline {subsection}{\numberline {1.3.5}The loop simplifies our turtle program}{32}{subsection.1.3.5}
+\contentsline {subsection}{\numberline {1.3.6}A few more turtle methods and tricks}{34}{subsection.1.3.6}
+\contentsline {subsection}{\numberline {1.3.7}Glossary}{36}{subsection.1.3.7}
+\contentsline {subsection}{\numberline {1.3.8}Exercises}{36}{subsection.1.3.8}
+\contentsline {section}{\numberline {1.4}Functions}{39}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Functions}{39}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Functions can call other functions}{41}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {1.4.3}Flow of execution}{43}{subsection.1.4.3}
+\contentsline {subsection}{\numberline {1.4.4}Functions that require arugments}{45}{subsection.1.4.4}
+\contentsline {subsection}{\numberline {1.4.5}Functions that return values}{45}{subsection.1.4.5}
+\contentsline {subsection}{\numberline {1.4.6}Variables and parameters are local}{47}{subsection.1.4.6}
+\contentsline {subsection}{\numberline {1.4.7}Turtles Revisited}{48}{subsection.1.4.7}
+\contentsline {subsection}{\numberline {1.4.8}Glossary}{48}{subsection.1.4.8}
+\contentsline {subsection}{\numberline {1.4.9}Exercises}{50}{subsection.1.4.9}
+\contentsline {section}{\numberline {1.5}Conditionals}{52}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}Boolean values and expressions}{52}{subsection.1.5.1}
+\contentsline {subsection}{\numberline {1.5.2}Logical operators}{53}{subsection.1.5.2}
+\contentsline {subsection}{\numberline {1.5.3}Truth Tables}{54}{subsection.1.5.3}
+\contentsline {subsection}{\numberline {1.5.4}Simplifying Boolean Expressions}{54}{subsection.1.5.4}
+\contentsline {subsection}{\numberline {1.5.5}Conditional execution}{55}{subsection.1.5.5}
+\contentsline {subsection}{\numberline {1.5.6}Omitting the \texttt {else} clause}{57}{subsection.1.5.6}
+\contentsline {subsection}{\numberline {1.5.7}Chained conditionals}{58}{subsection.1.5.7}
+\contentsline {subsection}{\numberline {1.5.8}Nested conditionals}{59}{subsection.1.5.8}
+\contentsline {subsection}{\numberline {1.5.9}The \texttt {return} statement}{60}{subsection.1.5.9}
+\contentsline {subsection}{\numberline {1.5.10}Logical opposites}{60}{subsection.1.5.10}
+\contentsline {subsection}{\numberline {1.5.11}Type conversion}{62}{subsection.1.5.11}
+\contentsline {subsection}{\numberline {1.5.12}A Turtle Bar Chart}{63}{subsection.1.5.12}
+\contentsline {subsection}{\numberline {1.5.13}Glossary}{65}{subsection.1.5.13}
+\contentsline {subsection}{\numberline {1.5.14}Exercises}{66}{subsection.1.5.14}
+\contentsline {section}{\numberline {1.6}Fruitful functions}{68}{section.1.6}
+\contentsline {subsection}{\numberline {1.6.1}Return values}{68}{subsection.1.6.1}
+\contentsline {subsection}{\numberline {1.6.2}Program development}{70}{subsection.1.6.2}
+\contentsline {subsection}{\numberline {1.6.3}Debugging with \texttt {print}}{72}{subsection.1.6.3}
+\contentsline {subsection}{\numberline {1.6.4}Composition}{73}{subsection.1.6.4}
+\contentsline {subsection}{\numberline {1.6.5}Boolean functions}{74}{subsection.1.6.5}
+\contentsline {subsection}{\numberline {1.6.6}Programming with style}{74}{subsection.1.6.6}
+\contentsline {subsection}{\numberline {1.6.7}Unit testing}{75}{subsection.1.6.7}
+\contentsline {subsection}{\numberline {1.6.8}Glossary}{77}{subsection.1.6.8}
+\contentsline {subsection}{\numberline {1.6.9}Exercises}{78}{subsection.1.6.9}
+\contentsline {section}{\numberline {1.7}Iteration}{82}{section.1.7}
+\contentsline {subsection}{\numberline {1.7.1}Assignment}{82}{subsection.1.7.1}
+\contentsline {subsection}{\numberline {1.7.2}Updating variables}{83}{subsection.1.7.2}
+\contentsline {subsection}{\numberline {1.7.3}The \texttt {for} loop revisited}{84}{subsection.1.7.3}
+\contentsline {subsection}{\numberline {1.7.4}The \texttt {while} statement}{84}{subsection.1.7.4}
+\contentsline {subsection}{\numberline {1.7.5}The Collatz 3n + 1 sequence}{86}{subsection.1.7.5}
+\contentsline {subsection}{\numberline {1.7.6}Tracing a program}{87}{subsection.1.7.6}
+\contentsline {subsection}{\numberline {1.7.7}Counting digits}{89}{subsection.1.7.7}
+\contentsline {subsection}{\numberline {1.7.8}Abbreviated assignment}{89}{subsection.1.7.8}
+\contentsline {subsection}{\numberline {1.7.9}Help and meta-notation}{90}{subsection.1.7.9}
+\contentsline {subsection}{\numberline {1.7.10}Tables}{92}{subsection.1.7.10}
+\contentsline {subsection}{\numberline {1.7.11}Two-dimensional tables}{93}{subsection.1.7.11}
+\contentsline {subsection}{\numberline {1.7.12}Encapsulation and generalization}{93}{subsection.1.7.12}
+\contentsline {subsection}{\numberline {1.7.13}More encapsulation}{94}{subsection.1.7.13}
+\contentsline {subsection}{\numberline {1.7.14}Local variables}{94}{subsection.1.7.14}
+\contentsline {subsection}{\numberline {1.7.15}The \texttt {break} statement}{95}{subsection.1.7.15}
+\contentsline {subsection}{\numberline {1.7.16}Other flavours of loops}{96}{subsection.1.7.16}
+\contentsline {subsection}{\numberline {1.7.17}An example}{97}{subsection.1.7.17}
+\contentsline {subsection}{\numberline {1.7.18}The \texttt {continue} statement}{98}{subsection.1.7.18}
+\contentsline {subsection}{\numberline {1.7.19}More generalization}{99}{subsection.1.7.19}
+\contentsline {subsection}{\numberline {1.7.20}Functions}{100}{subsection.1.7.20}
+\contentsline {subsection}{\numberline {1.7.21}Paired Data}{101}{subsection.1.7.21}
+\contentsline {subsection}{\numberline {1.7.22}Nested Loops for Nested Data}{101}{subsection.1.7.22}
+\contentsline {subsection}{\numberline {1.7.23}Newton's method for finding square roots}{102}{subsection.1.7.23}
+\contentsline {subsection}{\numberline {1.7.24}Algorithms}{103}{subsection.1.7.24}
+\contentsline {subsection}{\numberline {1.7.25}Glossary}{104}{subsection.1.7.25}
+\contentsline {subsection}{\numberline {1.7.26}Exercises}{106}{subsection.1.7.26}
+\contentsline {section}{\numberline {1.8}Strings}{109}{section.1.8}
+\contentsline {subsection}{\numberline {1.8.1}A compound data type}{109}{subsection.1.8.1}
+\contentsline {subsection}{\numberline {1.8.2}Working with strings as single things}{109}{subsection.1.8.2}
+\contentsline {subsection}{\numberline {1.8.3}Working with the parts of a string}{111}{subsection.1.8.3}
+\contentsline {subsection}{\numberline {1.8.4}Length}{111}{subsection.1.8.4}
+\contentsline {subsection}{\numberline {1.8.5}Traversal and the \texttt {for} loop}{112}{subsection.1.8.5}
+\contentsline {subsection}{\numberline {1.8.6}Slices}{113}{subsection.1.8.6}
+\contentsline {subsection}{\numberline {1.8.7}String comparison}{114}{subsection.1.8.7}
+\contentsline {subsection}{\numberline {1.8.8}Strings are immutable}{114}{subsection.1.8.8}
+\contentsline {subsection}{\numberline {1.8.9}The \texttt {in} and \texttt {not in} operators}{115}{subsection.1.8.9}
+\contentsline {subsection}{\numberline {1.8.10}A \texttt {find} function}{116}{subsection.1.8.10}
+\contentsline {subsection}{\numberline {1.8.11}Looping and counting}{117}{subsection.1.8.11}
+\contentsline {subsection}{\numberline {1.8.12}Optional parameters}{117}{subsection.1.8.12}
+\contentsline {subsection}{\numberline {1.8.13}The built-in \texttt {find} method}{118}{subsection.1.8.13}
+\contentsline {subsection}{\numberline {1.8.14}The \texttt {split} method}{119}{subsection.1.8.14}
+\contentsline {subsection}{\numberline {1.8.15}Cleaning up your strings}{119}{subsection.1.8.15}
+\contentsline {subsection}{\numberline {1.8.16}The string format method}{120}{subsection.1.8.16}
+\contentsline {subsection}{\numberline {1.8.17}Summary}{123}{subsection.1.8.17}
+\contentsline {subsection}{\numberline {1.8.18}Glossary}{124}{subsection.1.8.18}
+\contentsline {subsection}{\numberline {1.8.19}Exercises}{124}{subsection.1.8.19}
+\contentsline {section}{\numberline {1.9}Tuples}{127}{section.1.9}
+\contentsline {subsection}{\numberline {1.9.1}Tuples are used for grouping data}{127}{subsection.1.9.1}
+\contentsline {subsection}{\numberline {1.9.2}Tuple assignment}{128}{subsection.1.9.2}
+\contentsline {subsection}{\numberline {1.9.3}Tuples as return values}{129}{subsection.1.9.3}
+\contentsline {subsection}{\numberline {1.9.4}Composability of Data Structures}{129}{subsection.1.9.4}
+\contentsline {subsection}{\numberline {1.9.5}Glossary}{130}{subsection.1.9.5}
+\contentsline {subsection}{\numberline {1.9.6}Exercises}{130}{subsection.1.9.6}
+\contentsline {section}{\numberline {1.10}Event-Driven Programming}{130}{section.1.10}
+\contentsline {subsection}{\numberline {1.10.1}Keypress events}{131}{subsection.1.10.1}
+\contentsline {subsection}{\numberline {1.10.2}Mouse events}{132}{subsection.1.10.2}
+\contentsline {subsection}{\numberline {1.10.3}Automatic events from a timer}{133}{subsection.1.10.3}
+\contentsline {subsection}{\numberline {1.10.4}An example: state machines}{134}{subsection.1.10.4}
+\contentsline {subsection}{\numberline {1.10.5}Glossary}{136}{subsection.1.10.5}
+\contentsline {subsection}{\numberline {1.10.6}Exercises}{137}{subsection.1.10.6}
+\contentsline {section}{\numberline {1.11}Lists}{138}{section.1.11}
+\contentsline {subsection}{\numberline {1.11.1}List values}{138}{subsection.1.11.1}
+\contentsline {subsection}{\numberline {1.11.2}Accessing elements}{139}{subsection.1.11.2}
+\contentsline {subsection}{\numberline {1.11.3}List length}{139}{subsection.1.11.3}
+\contentsline {subsection}{\numberline {1.11.4}List membership}{140}{subsection.1.11.4}
+\contentsline {subsection}{\numberline {1.11.5}List operations}{140}{subsection.1.11.5}
+\contentsline {subsection}{\numberline {1.11.6}List slices}{141}{subsection.1.11.6}
+\contentsline {subsection}{\numberline {1.11.7}Lists are mutable}{141}{subsection.1.11.7}
+\contentsline {subsection}{\numberline {1.11.8}List deletion}{142}{subsection.1.11.8}
+\contentsline {subsection}{\numberline {1.11.9}Objects and references}{143}{subsection.1.11.9}
+\contentsline {subsection}{\numberline {1.11.10}Aliasing}{144}{subsection.1.11.10}
+\contentsline {subsection}{\numberline {1.11.11}Cloning lists}{144}{subsection.1.11.11}
+\contentsline {subsection}{\numberline {1.11.12}Lists and \texttt {for} loops}{145}{subsection.1.11.12}
+\contentsline {subsection}{\numberline {1.11.13}List parameters}{146}{subsection.1.11.13}
+\contentsline {subsection}{\numberline {1.11.14}List methods}{147}{subsection.1.11.14}
+\contentsline {subsection}{\numberline {1.11.15}Pure functions and modifiers}{148}{subsection.1.11.15}
+\contentsline {subsection}{\numberline {1.11.16}Functions that produce lists}{149}{subsection.1.11.16}
+\contentsline {subsection}{\numberline {1.11.17}Strings and lists}{149}{subsection.1.11.17}
+\contentsline {subsection}{\numberline {1.11.18}\texttt {list} and \texttt {range}}{150}{subsection.1.11.18}
+\contentsline {subsection}{\numberline {1.11.19}Nested lists}{151}{subsection.1.11.19}
+\contentsline {subsection}{\numberline {1.11.20}Matrices}{151}{subsection.1.11.20}
+\contentsline {subsection}{\numberline {1.11.21}Glossary}{152}{subsection.1.11.21}
+\contentsline {subsection}{\numberline {1.11.22}Exercises}{153}{subsection.1.11.22}
+\contentsline {section}{\numberline {1.12}Modules}{155}{section.1.12}
+\contentsline {subsection}{\numberline {1.12.1}Random numbers}{155}{subsection.1.12.1}
+\contentsline {subsubsection}{Repeatability and Testing}{156}{subsubsection*.195}
+\contentsline {subsubsection}{Picking balls from bags, throwing dice, shuffling a pack of cards}{157}{subsubsection*.196}
+\contentsline {subsection}{\numberline {1.12.2}The \texttt {time} module}{158}{subsection.1.12.2}
+\contentsline {subsection}{\numberline {1.12.3}The \texttt {math} module}{159}{subsection.1.12.3}
+\contentsline {subsection}{\numberline {1.12.4}Creating your own modules}{160}{subsection.1.12.4}
+\contentsline {subsection}{\numberline {1.12.5}Namespaces}{160}{subsection.1.12.5}
+\contentsline {subsection}{\numberline {1.12.6}Scope and lookup rules}{162}{subsection.1.12.6}
+\contentsline {subsection}{\numberline {1.12.7}Attributes and the dot operator}{163}{subsection.1.12.7}
+\contentsline {subsection}{\numberline {1.12.8}Three \texttt {import} statement variants}{164}{subsection.1.12.8}
+\contentsline {subsection}{\numberline {1.12.9}Turn your unit tester into a module}{164}{subsection.1.12.9}
+\contentsline {subsection}{\numberline {1.12.10}Glossary}{165}{subsection.1.12.10}
+\contentsline {subsection}{\numberline {1.12.11}Exercises}{166}{subsection.1.12.11}
+\contentsline {section}{\numberline {1.13}Files}{169}{section.1.13}
+\contentsline {subsection}{\numberline {1.13.1}About files}{169}{subsection.1.13.1}
+\contentsline {subsection}{\numberline {1.13.2}Writing our first file}{169}{subsection.1.13.2}
+\contentsline {subsection}{\numberline {1.13.3}Reading a file line-at-a-time}{170}{subsection.1.13.3}
+\contentsline {subsection}{\numberline {1.13.4}Turning a file into a list of lines}{171}{subsection.1.13.4}
+\contentsline {subsection}{\numberline {1.13.5}Reading the whole file at once}{171}{subsection.1.13.5}
+\contentsline {subsection}{\numberline {1.13.6}Working with binary files}{172}{subsection.1.13.6}
+\contentsline {subsection}{\numberline {1.13.7}An example}{172}{subsection.1.13.7}
+\contentsline {subsection}{\numberline {1.13.8}Directories}{173}{subsection.1.13.8}
+\contentsline {subsection}{\numberline {1.13.9}What about fetching something from the web?}{174}{subsection.1.13.9}
+\contentsline {subsection}{\numberline {1.13.10}Glossary}{175}{subsection.1.13.10}
+\contentsline {subsection}{\numberline {1.13.11}Exercises}{176}{subsection.1.13.11}
+\contentsline {section}{\numberline {1.14}List Algorithms}{176}{section.1.14}
+\contentsline {subsection}{\numberline {1.14.1}Test-driven development}{176}{subsection.1.14.1}
+\contentsline {subsection}{\numberline {1.14.2}The linear search algorithm}{177}{subsection.1.14.2}
+\contentsline {subsection}{\numberline {1.14.3}A more realistic problem}{178}{subsection.1.14.3}
+\contentsline {subsection}{\numberline {1.14.4}Binary Search}{181}{subsection.1.14.4}
+\contentsline {subsection}{\numberline {1.14.5}Removing adjacent duplicates from a list}{184}{subsection.1.14.5}
+\contentsline {subsection}{\numberline {1.14.6}Merging sorted lists}{185}{subsection.1.14.6}
+\contentsline {subsection}{\numberline {1.14.7}Alice in Wonderland, again!}{186}{subsection.1.14.7}
+\contentsline {subsection}{\numberline {1.14.8}Eight Queens puzzle, part 1}{188}{subsection.1.14.8}
+\contentsline {subsection}{\numberline {1.14.9}Eight Queens puzzle, part 2}{192}{subsection.1.14.9}
+\contentsline {subsection}{\numberline {1.14.10}Glossary}{193}{subsection.1.14.10}
+\contentsline {subsection}{\numberline {1.14.11}Exercises}{194}{subsection.1.14.11}
+\contentsline {section}{\numberline {1.15}Classes and Objects --- the Basics}{196}{section.1.15}
+\contentsline {subsection}{\numberline {1.15.1}Object-oriented programming}{196}{subsection.1.15.1}
+\contentsline {subsection}{\numberline {1.15.2}User-defined compound data types}{196}{subsection.1.15.2}
+\contentsline {subsection}{\numberline {1.15.3}Attributes}{198}{subsection.1.15.3}
+\contentsline {subsection}{\numberline {1.15.4}Improving our initializer}{199}{subsection.1.15.4}
+\contentsline {subsection}{\numberline {1.15.5}Adding other methods to our class}{200}{subsection.1.15.5}
+\contentsline {subsection}{\numberline {1.15.6}Instances as arguments and parameters}{201}{subsection.1.15.6}
+\contentsline {subsection}{\numberline {1.15.7}Converting an instance to a string}{202}{subsection.1.15.7}
+\contentsline {subsection}{\numberline {1.15.8}Instances as return values}{202}{subsection.1.15.8}
+\contentsline {subsection}{\numberline {1.15.9}A change of perspective}{203}{subsection.1.15.9}
+\contentsline {subsection}{\numberline {1.15.10}Objects can have state}{204}{subsection.1.15.10}
+\contentsline {subsection}{\numberline {1.15.11}Glossary}{204}{subsection.1.15.11}
+\contentsline {subsection}{\numberline {1.15.12}Exercises}{205}{subsection.1.15.12}
+\contentsline {section}{\numberline {1.16}Classes and Objects --- Digging a little deeper}{206}{section.1.16}
+\contentsline {subsection}{\numberline {1.16.1}Rectangles}{206}{subsection.1.16.1}
+\contentsline {subsection}{\numberline {1.16.2}Objects are mutable}{207}{subsection.1.16.2}
+\contentsline {subsection}{\numberline {1.16.3}Sameness}{208}{subsection.1.16.3}
+\contentsline {subsection}{\numberline {1.16.4}Copying}{209}{subsection.1.16.4}
+\contentsline {subsection}{\numberline {1.16.5}Glossary}{210}{subsection.1.16.5}
+\contentsline {subsection}{\numberline {1.16.6}Exercises}{211}{subsection.1.16.6}
+\contentsline {section}{\numberline {1.17}PyGame}{212}{section.1.17}
+\contentsline {subsection}{\numberline {1.17.1}The game loop}{212}{subsection.1.17.1}
+\contentsline {subsection}{\numberline {1.17.2}Displaying images and text}{215}{subsection.1.17.2}
+\contentsline {subsection}{\numberline {1.17.3}Drawing a board for the N queens puzzle}{217}{subsection.1.17.3}
+\contentsline {subsection}{\numberline {1.17.4}Sprites}{221}{subsection.1.17.4}
+\contentsline {subsection}{\numberline {1.17.5}Events}{224}{subsection.1.17.5}
+\contentsline {subsection}{\numberline {1.17.6}A wave of animation}{226}{subsection.1.17.6}
+\contentsline {subsection}{\numberline {1.17.7}Aliens - a case study}{230}{subsection.1.17.7}
+\contentsline {subsection}{\numberline {1.17.8}Reflections}{231}{subsection.1.17.8}
+\contentsline {subsection}{\numberline {1.17.9}Glossary}{231}{subsection.1.17.9}
+\contentsline {subsection}{\numberline {1.17.10}Exercises}{231}{subsection.1.17.10}
+\contentsline {section}{\numberline {1.18}Recursion}{232}{section.1.18}
+\contentsline {subsection}{\numberline {1.18.1}Drawing Fractals}{232}{subsection.1.18.1}
+\contentsline {subsection}{\numberline {1.18.2}Recursive data structures}{235}{subsection.1.18.2}
+\contentsline {subsection}{\numberline {1.18.3}Processing recursive number lists}{236}{subsection.1.18.3}
+\contentsline {subsection}{\numberline {1.18.4}Case study: Fibonacci numbers}{237}{subsection.1.18.4}
+\contentsline {subsection}{\numberline {1.18.5}Example with recursive directories and files}{238}{subsection.1.18.5}
+\contentsline {subsection}{\numberline {1.18.6}Glossary}{239}{subsection.1.18.6}
+\contentsline {subsection}{\numberline {1.18.7}Exercises}{239}{subsection.1.18.7}
+\contentsline {section}{\numberline {1.19}Exceptions}{242}{section.1.19}
+\contentsline {subsection}{\numberline {1.19.1}Catching exceptions}{242}{subsection.1.19.1}
+\contentsline {subsection}{\numberline {1.19.2}Raising our own exceptions}{244}{subsection.1.19.2}
+\contentsline {subsection}{\numberline {1.19.3}Revisiting an earlier example}{245}{subsection.1.19.3}
+\contentsline {subsection}{\numberline {1.19.4}The \texttt {finally} clause of the \texttt {try} statement}{245}{subsection.1.19.4}
+\contentsline {subsection}{\numberline {1.19.5}Glossary}{246}{subsection.1.19.5}
+\contentsline {subsection}{\numberline {1.19.6}Exercises}{246}{subsection.1.19.6}
+\contentsline {section}{\numberline {1.20}Dictionaries}{247}{section.1.20}
+\contentsline {subsection}{\numberline {1.20.1}Dictionary operations}{248}{subsection.1.20.1}
+\contentsline {subsection}{\numberline {1.20.2}Dictionary methods}{248}{subsection.1.20.2}
+\contentsline {subsection}{\numberline {1.20.3}Aliasing and copying}{250}{subsection.1.20.3}
+\contentsline {subsection}{\numberline {1.20.4}Sparse matrices}{250}{subsection.1.20.4}
+\contentsline {subsection}{\numberline {1.20.5}Memoization}{251}{subsection.1.20.5}
+\contentsline {subsection}{\numberline {1.20.6}Counting letters}{252}{subsection.1.20.6}
+\contentsline {subsection}{\numberline {1.20.7}Glossary}{253}{subsection.1.20.7}
+\contentsline {subsection}{\numberline {1.20.8}Exercises}{254}{subsection.1.20.8}
+\contentsline {section}{\numberline {1.21}Even more OOP}{255}{section.1.21}
+\contentsline {subsection}{\numberline {1.21.1}MyTime}{255}{subsection.1.21.1}
+\contentsline {subsection}{\numberline {1.21.2}Pure functions}{256}{subsection.1.21.2}
+\contentsline {subsection}{\numberline {1.21.3}Modifiers}{257}{subsection.1.21.3}
+\contentsline {subsection}{\numberline {1.21.4}Converting \texttt {increment} to a method}{258}{subsection.1.21.4}
+\contentsline {subsection}{\numberline {1.21.5}An ``Aha!'' insight}{258}{subsection.1.21.5}
+\contentsline {subsection}{\numberline {1.21.6}Generalization}{260}{subsection.1.21.6}
+\contentsline {subsection}{\numberline {1.21.7}Another example}{261}{subsection.1.21.7}
+\contentsline {subsection}{\numberline {1.21.8}Operator overloading}{262}{subsection.1.21.8}
+\contentsline {subsection}{\numberline {1.21.9}Polymorphism}{263}{subsection.1.21.9}
+\contentsline {subsection}{\numberline {1.21.10}Glossary}{265}{subsection.1.21.10}
+\contentsline {subsection}{\numberline {1.21.11}Exercises}{265}{subsection.1.21.11}
+\contentsline {section}{\numberline {1.22}Collections of objects}{266}{section.1.22}
+\contentsline {subsection}{\numberline {1.22.1}Composition}{266}{subsection.1.22.1}
+\contentsline {subsection}{\numberline {1.22.2}\texttt {Card} objects}{266}{subsection.1.22.2}
+\contentsline {subsection}{\numberline {1.22.3}Class attributes and the \texttt {\_\_str\_\_} method}{267}{subsection.1.22.3}
+\contentsline {subsection}{\numberline {1.22.4}Comparing cards}{269}{subsection.1.22.4}
+\contentsline {subsection}{\numberline {1.22.5}Decks}{270}{subsection.1.22.5}
+\contentsline {subsection}{\numberline {1.22.6}Printing the deck}{271}{subsection.1.22.6}
+\contentsline {subsection}{\numberline {1.22.7}Shuffling the deck}{272}{subsection.1.22.7}
+\contentsline {subsection}{\numberline {1.22.8}Removing and dealing cards}{273}{subsection.1.22.8}
+\contentsline {subsection}{\numberline {1.22.9}Glossary}{274}{subsection.1.22.9}
+\contentsline {subsection}{\numberline {1.22.10}Exercises}{274}{subsection.1.22.10}
+\contentsline {section}{\numberline {1.23}Inheritance}{274}{section.1.23}
+\contentsline {subsection}{\numberline {1.23.1}Inheritance}{274}{subsection.1.23.1}
+\contentsline {subsection}{\numberline {1.23.2}A hand of cards}{275}{subsection.1.23.2}
+\contentsline {subsection}{\numberline {1.23.3}Dealing cards}{275}{subsection.1.23.3}
+\contentsline {subsection}{\numberline {1.23.4}Printing a Hand}{276}{subsection.1.23.4}
+\contentsline {subsection}{\numberline {1.23.5}The \texttt {CardGame} class}{277}{subsection.1.23.5}
+\contentsline {subsection}{\numberline {1.23.6}\texttt {OldMaidHand} class}{278}{subsection.1.23.6}
+\contentsline {subsection}{\numberline {1.23.7}\texttt {OldMaidGame} class}{279}{subsection.1.23.7}
+\contentsline {subsection}{\numberline {1.23.8}Glossary}{282}{subsection.1.23.8}
+\contentsline {subsection}{\numberline {1.23.9}Exercises}{283}{subsection.1.23.9}
+\contentsline {section}{\numberline {1.24}Debugging}{283}{section.1.24}
+\contentsline {subsection}{\numberline {1.24.1}Syntax errors}{284}{subsection.1.24.1}
+\contentsline {subsection}{\numberline {1.24.2}I can't get my program to run no matter what I do.}{284}{subsection.1.24.2}
+\contentsline {subsection}{\numberline {1.24.3}Runtime errors}{285}{subsection.1.24.3}
+\contentsline {subsection}{\numberline {1.24.4}My program does absolutely nothing.}{285}{subsection.1.24.4}
+\contentsline {subsection}{\numberline {1.24.5}My program hangs.}{285}{subsection.1.24.5}
+\contentsline {subsection}{\numberline {1.24.6}Infinite Loop}{285}{subsection.1.24.6}
+\contentsline {subsection}{\numberline {1.24.7}Infinite Recursion}{286}{subsection.1.24.7}
+\contentsline {subsection}{\numberline {1.24.8}Flow of Execution}{286}{subsection.1.24.8}
+\contentsline {subsection}{\numberline {1.24.9}When I run the program I get an exception.}{287}{subsection.1.24.9}
+\contentsline {subsection}{\numberline {1.24.10}I added so many \texttt {print} statements I get inundated with output.}{287}{subsection.1.24.10}
+\contentsline {subsection}{\numberline {1.24.11}Semantic errors}{288}{subsection.1.24.11}
+\contentsline {subsection}{\numberline {1.24.12}My program doesn't work.}{288}{subsection.1.24.12}
+\contentsline {subsection}{\numberline {1.24.13}I've got a big hairy expression and it doesn't do what I expect.}{289}{subsection.1.24.13}
+\contentsline {subsection}{\numberline {1.24.14}I've got a function or method that doesn't return what I expect.}{290}{subsection.1.24.14}
+\contentsline {subsection}{\numberline {1.24.15}I'm really, really stuck and I need help.}{290}{subsection.1.24.15}
+\contentsline {subsection}{\numberline {1.24.16}No, I really need help.}{290}{subsection.1.24.16}
+\contentsline {section}{\numberline {1.25}An odds-and-ends Workbook}{291}{section.1.25}
+\contentsline {subsection}{\numberline {1.25.1}The Five Strands of Proficiency}{291}{subsection.1.25.1}
+\contentsline {subsection}{\numberline {1.25.2}Sending Email}{292}{subsection.1.25.2}
+\contentsline {subsection}{\numberline {1.25.3}Write your own Web Server}{293}{subsection.1.25.3}
+\contentsline {subsection}{\numberline {1.25.4}Using a Database}{295}{subsection.1.25.4}
+\contentsline {section}{\numberline {1.26}Some Tips, Tricks, and Common Errors}{297}{section.1.26}
+\contentsline {subsection}{\numberline {1.26.1}Functions}{297}{subsection.1.26.1}
+\contentsline {subsubsection}{Problems with logic and flow of control}{299}{subsubsection*.276}
+\contentsline {subsubsection}{Local variables}{300}{subsubsection*.277}
+\contentsline {subsubsection}{Event handler functions}{301}{subsubsection*.278}
+\contentsline {subsection}{\numberline {1.26.2}String handling}{301}{subsection.1.26.2}
+\contentsline {subsection}{\numberline {1.26.3}Looping and lists}{303}{subsection.1.26.3}
+\contentsline {chapter}{Index}{305}{section*.279}
